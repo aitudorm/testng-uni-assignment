@@ -1,3 +1,4 @@
 # testng-uni-assignment
-Little project based on uni curriculum
+# little project based on uni curriculum
+TestNG - Extent Report - Selenium - Log4j
 ![Screenshot](screenshot.jpg)
